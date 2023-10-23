@@ -7,7 +7,7 @@ descargarlo e instalarlo desde [nodejs.org](https://nodejs.org/).
 1. Abre tu terminal y navega hasta la ubicación donde deseas clonar el repositorio.
 2. Ejecuta el siguiente comando para clonar el repositorio:
 ```
-git clone [https://github.com/isaac-rom/Guia-09-Paises](https://github.com/isaac-rom/dis-guia-09)
+git clone https://github.com/isaac-rom/dis-guia-09
 ```
 3. Ingresa al directorio del proyecto usando el comando:
 ```
